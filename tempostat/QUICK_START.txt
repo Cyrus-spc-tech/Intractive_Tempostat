@@ -1,0 +1,76 @@
+╔═══════════════════════════════════════════════════════════════╗
+║     INTERACTIVE THERMOSTAT - LIVE WALLPAPER QUICK START      ║
+╚═══════════════════════════════════════════════════════════════╝
+
+🎯 FASTEST WAY TO GET STARTED:
+
+1. Download Lively Wallpaper (FREE):
+   → Microsoft Store: Search "Lively Wallpaper"
+   → OR Website: https://www.rocksdanister.com/lively/
+
+2. Install and Open Lively Wallpaper
+
+3. In Lively, click the "+" button
+
+4. Select "Choose File"
+
+5. Navigate to this folder and select "index.html"
+
+6. Click "Set as Wallpaper"
+
+✨ DONE! Your interactive thermostat is now your wallpaper!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎮 HOW TO USE:
+
+• Click the CENTER ROTATING DIAL to cycle through 6 weather scenes:
+  1. ☀️  Sunny Day
+  2. 🌅 Sunset
+  3. 🌙 Night with Stars
+  4. ☁️  Cloudy
+  5. ⚡ Thunderstorm
+  6. ❄️  Snowy
+
+• Toggle between °F and °C using the buttons on the interface
+
+• Power button turns the display on/off
+
+• Side buttons trigger fun animations (rocket, monster, biplane)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ SETTINGS (Optional):
+
+In Lively Wallpaper settings, you can:
+• Enable/disable mouse interaction
+• Adjust performance (frame rate)
+• Pause wallpaper when running games
+• Set wallpaper to pause on battery (laptops)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 REQUIRED FILES (Keep in same folder):
+✓ index.html
+✓ script.js
+✓ style.css
+✓ LivelyProperties.json
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+❓ TROUBLESHOOTING:
+
+Problem: Wallpaper not interactive
+Solution: Enable "Mouse Input" in Lively settings
+
+Problem: Performance lag
+Solution: Lower frame rate in Lively settings
+
+Problem: Wallpaper not loading
+Solution: Ensure all 4 files are in the same folder
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For detailed instructions, see README_WALLPAPER.md
+
+Enjoy your interactive desktop! 🌤️❄️⚡

@@ -1,0 +1,14 @@
+{
+  "AppVersion": "2.0.0.0",
+  "Title": "Interactive Thermostat",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Desc": "An interactive thermostat with beautiful weather animations and temperature controls. Click the center dial to cycle through different weather conditions.",
+  "Author": "Custom",
+  "License": "Free",
+  "Contact": "",
+  "Type": 2,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
